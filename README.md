@@ -22,3 +22,23 @@ Oracle Next Education (ONE), com foco em Data Science.
 
 ## 📌 Status
 🚧 Em desenvolvimento — aprendizado contínuo
+
+## Arquitetura dos arquivos
+
+```
+📦 data-science-one-oracle
+ ┣ 📁 notebooks
+ ┃ ┣ 📁 python-basics
+ ┃ ┣ 📁 pandas-numpy
+ ┃ ┣ 📁 data-visualization
+ ┃ ┗ 📁 machine-learning
+ ┣ 📁 projects
+ ┃ ┣ 📁 analise-exploratoria
+ ┃ ┣ 📁 modelo-preditivo
+ ┃ ┗ 📁 desafio-final
+ ┣ 📁 datasets
+ ┣ 📁 docs
+ ┣ 📄 README.md
+ ┣ 📄 requirements.txt
+ ┗ 📄 .gitignore
+```
